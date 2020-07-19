@@ -1,0 +1,5 @@
+tensorflow-gpu==1.15
+opencv-python==4.2.0.32
+Pillow==7.1.2
+scikit-learn==0.21.3
+filterpy==1.4.5
